@@ -1,0 +1,12 @@
+Max301001 sensor Package:
+
+url: https://github.com/oxullo/Arduino-MAX30100
+
+Steps:
+
+Extract the ZIP file.
+
+Move the extracted folder to:
+Documents\Arduino\libraries\
+
+Restart Arduino IDE and try compiling again.
