@@ -69,6 +69,7 @@ Prediction: ARCA uses a trained ProtoNet model to predict stress level.
 Response: The chatbot speaks out the result: "Stress Level: Normal" or "Stress Level: Stress High".
 
 🧠 Sample Use Case
+```
 👤: Hello ARCA
 🤖: Hello sir, I’m ARCA... How are you?
 👤: I’m fine. What about you?
@@ -81,6 +82,7 @@ Response: The chatbot speaks out the result: "Stress Level: Normal" or "Stress L
 🤖: Please say Track.
 👤: Track
 🤖: Stress Level: Normal ✅
+```
 
 📌 Future Enhancements
 🧬 Expand dataset for more diverse stress indicators
